@@ -7,3 +7,4 @@
 [https://github.com/PatelHarshit/AIML-2025/blob/main/star.ipynb]
 [https://github.com/PatelHarshit/AIML-2025/blob/main/game-4.ipynb]
 [https://github.com/PatelHarshit/AIML-2025/blob/main/Lab_5.ipynb]
+[https://github.com/PatelHarshit/AIML-2025/blob/main/lab_6.ipynb]
